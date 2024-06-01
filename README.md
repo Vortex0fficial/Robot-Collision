@@ -2,7 +2,7 @@
 
 ## This is my answer to the Code Force problem Below.
 
-## Code Force Question:
+Code Force Question:
 https://codeforces.com/problemset/problem/1525/C
 
 
